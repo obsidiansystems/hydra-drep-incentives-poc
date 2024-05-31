@@ -1,0 +1,5 @@
+{
+    "type": "CertificateConway",
+    "description": "DRep Key Registration Certificate",
+    "cborHex": "84108200581cf05c4110ce68fe3886b88e77341b213473e5d6acf6e9c85fca52cd621a1dcd6500f6"
+}
